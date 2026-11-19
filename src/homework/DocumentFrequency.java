@@ -1,5 +1,4 @@
 package homework;
-
 public class DocumentFrequency {
 	private String fileName;
     private int frequency;
